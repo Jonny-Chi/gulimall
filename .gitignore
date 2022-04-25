@@ -19,3 +19,7 @@ buildNumber.properties
 .idea
 
 **/.gitignore
+
+**/rebel.xml
+
+**/*.iml
